@@ -10,4 +10,4 @@ to not worry about finding "free" images. Will also learn a little photoshop.
 
 
 
-![alt text](http://url/to/img.png)
+![alt text](http://img/demo.png)
