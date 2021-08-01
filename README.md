@@ -10,4 +10,4 @@ to not worry about finding "free" images. Will also learn a little photoshop.
 
 
 
-![alt text](http://img/demo.png)
+![alt text](https://github.com/IDEddy/tanms/tree/main/demo.png)
