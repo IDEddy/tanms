@@ -1,5 +1,5 @@
 # tanms
-:satisfied: lets see about this nms travel agency idea
+:satisfied: Travel agency idea test.
 
 
 This is to help in my further understanding of web design and front end web development. No Man's sky is just a chosen theme
